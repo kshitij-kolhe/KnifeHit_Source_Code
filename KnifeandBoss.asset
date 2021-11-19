@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f85947e91397c3a4b82b0f62fa564d8a, type: 3}
+  m_Name: KnifeandBoss
+  m_EditorClassIdentifier: 
+  knife:
+  - {fileID: 387456016344034382, guid: 93094e4ba89044c49bfc750685331fb5, type: 3}
+  - {fileID: 387456016344034382, guid: 656fbdc2228a3ec40b28fec4e26d8c8c, type: 3}
+  - {fileID: 387456016344034382, guid: d54148d73f674bb418b13f91a3edc27f, type: 3}
+  - {fileID: 387456016344034382, guid: 7f8076b2baa25194d874637da7d8ffbb, type: 3}
+  - {fileID: 387456016344034382, guid: 5bb38896a73d0ac4c8445385b5353b7d, type: 3}
+  - {fileID: 387456016344034382, guid: 7f8076b2baa25194d874637da7d8ffbb, type: 3}
+  - {fileID: 387456016344034382, guid: f51a3d5bbbfe0754fb2ff1d72bd1365d, type: 3}
+  boss:
+  - {fileID: 1793504113279701788, guid: edf65ca2619201e4483b28edece1fb4b, type: 3}
+  - {fileID: 1793504113279701788, guid: 5ab407f3782001d41be86e022ecd493e, type: 3}
+  - {fileID: 1793504113279701788, guid: 6a5f9f13cf9905942b851308a3cfa3f7, type: 3}
+  - {fileID: 1793504113279701788, guid: 74b9b5d280fb18e40b40480ef5435679, type: 3}
+  - {fileID: 1793504113279701788, guid: af95636ad3e769c4ab71f29a02519ce3, type: 3}
+  - {fileID: 1793504113279701788, guid: 277e9794d81ecd44bbed6c2d5e27497d, type: 3}
+  - {fileID: 1793504113279701788, guid: 11f98827e151f444db9fb9e7b828d4a9, type: 3}
+  knifeCount: 080000000a000000090000000c0000000b0000000e00000008000000
